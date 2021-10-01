@@ -16,11 +16,10 @@ Analysis on Binance-Futures-Data
 : Weakly yes. BTCDOM decoupled for all time periods in the data, but other coins did not.
 
 ## Requirements
+```bash
+pip install -r requirements.txt
+```
 
-numpy==1.18.5
-pandas==1.3.3
-matplotlib==3.4.2
-matplotlib-inline==0.1.2
 
 
 ## Usage
