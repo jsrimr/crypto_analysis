@@ -3,6 +3,7 @@
 ![Decoupling_coins](Bitcoin_and_decoupling_coins.png)
 
 [medium link](https://medium.com/@jsrimr2/including-these-hidden-coins-into-your-portfolio-will-earn-you-high-profits-cb705a5d9a62) 
+
 [Jupyter notebook](./Final_submission.ipynb)
 
 ## Questions & Answers in this repo
