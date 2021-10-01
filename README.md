@@ -1,17 +1,18 @@
-# Analysis on Binance-Futures-Data
-
-![Decoupling_coins](Bitcoin_and_decoupling_coins.png)
-
+# Are altcoins are just leveraged version of Bitcoin? 
 [medium link](https://medium.com/@jsrimr2/including-these-hidden-coins-into-your-portfolio-will-earn-you-high-profits-cb705a5d9a62) 
 
 [Jupyter notebook](./Final_submission.ipynb)
 
+Analysis on Binance-Futures-Data
+![Decoupling_coins](Bitcoin_and_decoupling_coins.png)
+
+
 ## Questions & Answers in this repo
-Are altcoins are just a leveraged version of Bitcoin?
+1. Are altcoins are just a leveraged version of Bitcoin?
 : No, 7% of Alt-coins don't have linear relationship with Bitcoin
-Is the relationship found in question1 applies same regardless of the market situation?
+2. Is the relationship found in question1 applies same regardless of the market situation?
 : Weakly yes. The coins showed decoupling behavior in general also showed decoupling behavior when Bitcoin price is going down.
-Is the relationship found in question1 applies consistently regardless of the time?
+3. Is the relationship found in question1 applies consistently regardless of the time?
 : Weakly yes. BTCDOM decoupled for all time periods in the data, but other coins did not.
 
 ## Requirements
