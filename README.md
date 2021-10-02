@@ -7,7 +7,7 @@ Analysis on Binance-Futures-Data
 ![Decoupling_coins](Bitcoin_and_decoupling_coins.png)
 
 
-## Questions & Answers in this repo
+## Summary : Questions & Answers in this repo
 1. Are altcoins are just a leveraged version of Bitcoin?
 : No, 7% of Alt-coins don't have linear relationship with Bitcoin
 2. Is the relationship found in question1 applies same regardless of the market situation?
@@ -21,6 +21,9 @@ pip install -r requirements.txt
 ```
 
 
+## Files
+[data_downloader.py](./data_downloader.py) : Modules including data_downloader function, and data_exporting function
+[Final_submission.ipynb](./Final_submission.ipynb) : Notebook where actual codes are located. Analyze the data and extract the answer to the question 
 
 ## Usage
 
